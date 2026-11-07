@@ -1,0 +1,17 @@
+{
+  "name": "Taller AgroTendencias",
+  "short_name": "Taller AT",
+  "description": "Taller, almacén y compras de Agro Tendencias",
+  "lang": "es",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#163a24",
+  "theme_color": "#163a24",
+  "icons": [
+    { "src": "icono-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icono-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icono-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
